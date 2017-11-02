@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: A new Beginning...
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
@@ -61,14 +61,16 @@ main:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Ali
+    quote: I think this is Cooool
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -98,6 +100,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - description: Just try us out for a little time!
+      items:
+        - 1 cup
+        - It is comma seperated duuuuufis!
+        - A list
+      plan: Free
+      price: '0'
 ---
-
 
